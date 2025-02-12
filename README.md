@@ -1,23 +1,241 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhruv Vala
 =====================================================================================================================================
 
-<h3 align="center">I'm not just a coder; I'm someone who thrives on the challenge of solving problems and bringing innovative ideas to life. With a knack for clear communication and a love for elegant code, I navigate the ever-evolving tech landscape with confidence and curiosity. Let's explore this dynamic realm together and craft a future where technology truly empowers humanity!</h3>
+<h3 align="center">I'm not just a coder  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ; I'm someone who thrives on the challenge of solving problems and bringing innovative ideas to life. With a knack for clear communication and a love for elegant code, I navigate the ever-evolving tech landscape with confidence and curiosity. Let's explore this dynamic realm together and craft a future where technology truly empowers humanity!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvvala2003&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvvala2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvvala2003" alt="dhruvvala2003" /></a> </p>
 
-- 📫 How to reach me **dkvala2003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhruv-vala-908145318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-vala-908145318" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_vala_dhruv_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_vala_dhruv_07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vala_dhruv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vala_dhruv" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🌐 Socials:
+<table align="center">
+  <tr>
+    <td>
+      <a href = "https://facebook.com/#####"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/facebook-new.png" /> </a> 
+    </td>
+    <td>
+      <a href = "https://www.instagram.com/i_am_vala_dhruv_07"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/instagram-new--v2.png" /></a> 
+    </td>
+  
+    
+<td>
+  <a href = "https://twitter.com/####"><img height="60" width="60" src="https://img.icons8.com/ios/50/FFFFFF/twitterx--v1.png" /></a> 
+</td>
+  <td>
+      <a href = "https://linkedin.com/in/dhruv-vala-908145318"><img height="60" width="60" src="https://img.icons8.com/doodle/48/linkedin--v2.png" /></a> 
+    </td>
+     <td>
+      <a href = "https://leetcode.com/vala_dhruv"><img height="60" width="60" src="https://cdn.simpleicons.org/leetcode" /></a> 
+    </td>
+  
+    
+    
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ⚡ Tech Stack:
+
+### 🚀 Languages
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/plasticine/200/css3.png" width="45" height="45" alt="css" title="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/plasticine/200/html-5.png" width="45" height="45" alt="html" title="html" />
+      <br>HTML
+    </td>
+<td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="java" title="java" />
+      <br>Java
+    </td>
+<td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="javascript" title="javascript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="python" title="python" />
+      <br>Python
+    </td>
+    
+  </tr>
+</table>
+
+### 💻 Libraries & Framework
+
+<table align="center">
+
+  <tr>
+<!--     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45" alt="django" title="django" />
+      <br>Django
+    </td> -->
+<!--     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="Fastapi" title="fastapi" />
+      <br>Fastapi
+    </td> -->
+       <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring boot" width="45" height="45" alt="NextJs" title="NextJs" />
+      <br>Sprint Boot
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=expressjs" width="45" height="45" alt="expressjs" title="expressjs" />
+      <br>Expressjs
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="NextJs" title="NextJs" />
+      <br>NextJs
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/color/48/nodejs.png" width="45" height="45" alt="NodeJs" title="NodeJs" />
+      <br>NodeJs
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Redux" title="Redux" />
+      <br>Redux
+    </td>
+  </tr>
+
+
+
+  <tr>
+<!--     <td align="center" width="90">
+      <img src="https://img.icons8.com/fluency/48/prisma-orm.png" width="45" height="45" alt="prisma" title="prisma" />
+      <br>Prisma
+    </td> -->
+        <td align="center" width="90">
+      <img src="https://img.icons8.com/color/48/numpy.png" width="45" height="45" alt="numpy" title="numpy" />
+      <br>Numpy
+    </td>
+        <td align="center" width="90">
+      <img src="https://img.icons8.com/color/48/pandas.png" width="45" height="45" alt="pandas" title="pandas" />
+      <br>Pandas
+    </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="sklearn" title="sklearn" />
+      <br>Sklearn
+    </td>
+<!--      <td align="center" width="90">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain.svg" width="45" height="45" alt="langchain" title="langchain" />
+      <br>Langchain
+    </td> -->
+<!--     <td align="center" width="90">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow-light.svg" width="45" height="45" alt="langchain" title="langchain" />
+      <br>Tensorflow
+    </td> -->
+  </tr>
+
+
+  
+
+</table>
+
+
+
+
+### 🧑🏻‍💻 Tools & Platform
+
+<table align="center">
+  <tr>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="AWS" title="Aws" />
+      <br>Aws
+    </td>
+     <td align="center" width="90">
+      <img src="https://img.icons8.com/doodle/48/github--v1.png" width="45" height="45" alt="Github" title="Github" />
+      <br>Github
+    </td>
+<!--     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" title="Vercel" />
+      <br>Vercel
+    </td> -->
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo.png" width="45" height="45" alt="MongoDb" title="MongoDb" />
+      <br>MongoDB
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="Mysql" title="Mysql" />
+      <br>Mysql
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/plasticine/200/postgreesql.png" width="45" height="45" alt="Postgres" title="Postgres" />
+      <br>Postgres
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/dusk/64/postman-api.png" width="45" height="45" alt="Postman" title="Postman" />
+      <br>Postman 
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" title="Docker" />
+      <br>Docker
+    </td>
+    </tr>
+  <tr>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes" title="Kubernetes" />
+      <br>Kubernetes
+    </td>
+     <td align="center" width="90">
+      <img src="https://img.icons8.com/color/48/jenkins.png" width="45" height="45" alt="Kubernetes" title="Kubernetes" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/dusk/64/visual-studio.png" width="45" height="45" alt="Vscode" title="Vscode" />
+      <br>Vscode
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" alt="Idea" title="Idea" />
+      <br>Idea
+    </td>
+<!--     <td align="center" width="90">
+      <img src="https://img.icons8.com/plasticine/200/kali-linux.png" width="45" height="45" alt="Kali" title="Kali" />
+      <br>Kali
+    </td> -->
+        <td align="center" width="90">
+      <img src="https://img.icons8.com/doodle/48/android-studio--v2.png" width="45" height="45" alt="androidstudio" title="androidstudio" />
+      <br>Android Studio
+    </td>
+<!--         <td align="center" width="90">
+      <img src="https://img.icons8.com/color/48/google-cloud.png" width="45" height="45" alt="gcp" title="gcp" />
+      <br>Gcp
+    </td> -->
+<!--         <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="45" height="45" alt="webpack" title="webpack" />
+      <br>Webpack
+    </td> -->
+    
+  </tr>
+</table>
+
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
+</div>
+
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvvala2003&show_icons=true&locale=en&layout=compact" alt="dhruvvala2003" /></p>
 
